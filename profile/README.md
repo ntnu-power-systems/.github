@@ -5,9 +5,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Launchpad: Profile README
+# ntnu-power-systems
 
-_Say hello to your community._
+_A collection of education and research repos from the Department of Electric Energy, NTNU _
 
 
 <!-- 
